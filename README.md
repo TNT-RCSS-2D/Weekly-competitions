@@ -1,6 +1,6 @@
 # Weekly-competitions
 This repository is for weekly tournaments
-### Participating teams are:
+### Participating teams are :
 <ul>
   <li>TNT</li>
   <li>AEteam</li>
