@@ -9,3 +9,5 @@ This repository is for weekly tournaments
   <li>EMPEROR</li>
   <li>Galexy-coders</li>
 </ul>
+
+# 23, February, 2024
