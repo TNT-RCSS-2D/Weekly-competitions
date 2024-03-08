@@ -1,4 +1,5 @@
-# Weekly-competitions
+# ❌❌ There will be no competitions at this time
+## Weekly-competitions
 This repository is for weekly tournaments
 ### Participating teams are :
 <ul>
@@ -9,6 +10,3 @@ This repository is for weekly tournaments
   <li>EMPEROR</li>
   <li>Galexy-coders</li>
 </ul>
-
-# 1, March, 2024
-# 8, March, 2024
